@@ -1,2 +1,7 @@
 点点是最棒的
 在dev分支上新增一条数据
+<<<<<<< Updated upstream
+=======
+在dev分支上新增二条数据
+在dev分支上新增三条数据
+>>>>>>> Stashed changes
